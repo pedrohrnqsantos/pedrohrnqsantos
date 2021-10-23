@@ -16,5 +16,5 @@
 <div>
   <a href="https://github.com/pedrohrnqsantos">
   <img height="180cm" src=https://github-readme-stats.vercel.app/api?username=pedrohrnqsantos&countprivate=true&show_icons=true&theme=onedark>
-  <img height="140cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrnqsantos&layout=compact&langs_count=5&theme=onedark>
+  <img height="120cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrnqsantos&layout=compact&langs_count=5&theme=onedark>
 <div>
