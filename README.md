@@ -16,5 +16,5 @@
 <div>
   <a href="https://github.com/pedrohrnqsantos">
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=pedrohrnqsantos&countprivate=true&show_icons=true&theme=onedark>
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrnqsantos&layout=compact&langs_count=5&theme=onedark>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrnqsantos&theme=onedark&hide_langs_below=1" />
 </div>
