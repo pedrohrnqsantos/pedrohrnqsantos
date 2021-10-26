@@ -26,7 +26,7 @@
 	</a>
 </code>
 <code>
-	<a href="santoshpedro@gmail.com">
+	<a href="mailto:santoshpedro@gmail.com">
 		<img height="40" src="https://github.com/pedrohrnqsantos/pedrohrnqsantos/blob/main/icons%20and%20gifs/gmail-icon.svg">
 	</a>
 </code>
