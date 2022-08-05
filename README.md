@@ -2,7 +2,7 @@
 	<p align="center" style="font-family:maiandra GD;">
 		Hey guys welcome! <br>
 		<i>
-			i'm Pedro Santos
+			i am Pedro Santos
 		</i>
 		<br>
 			<img align="center" width="150" src="https://github.com/pedrohrnqsantos/pedrohrnqsantos/blob/main/icons%20and%20gifs/run_mario.gif">
