@@ -1,6 +1,6 @@
 <h1>
 	<p align="center" style="font-family:maiandra GD;">
-		Hey guys welcome! <br>
+		Hey guys, welcome! <br>
 		<i>
 			I am Pedro Santos
 		</i>
